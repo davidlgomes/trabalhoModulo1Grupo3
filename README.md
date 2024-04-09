@@ -50,3 +50,9 @@ Se você quiser contribuir com este projeto, por favor, siga estas etapas:
 ![Slide 14](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/1b9154bf-a583-4842-bbc8-920695e4ba45)
 ![Slide 15](https://github.com/davidlgomes/trabalhoGrupo1/assets/47571290/ce642561-c776-4c16-8c6b-2dfa7ba1201f)
 
+
+
+
+Apresentação do trabalho em grupo.
+
+https://gamma.app/docs/ynunnffilm9hjin?following_id=5l4q8n7psy06oqt&follow_on_start=true
