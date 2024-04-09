@@ -2,6 +2,10 @@
 
 Este é um programa simples em Python para coletar dados de uma pesquisa de saúde e armazená-los em um arquivo CSV. A pesquisa consiste em algumas perguntas relacionadas a hábitos de saúde e estilo de vida.
 
+## Link para aplicação
+
+[Aplicação](https://github.com/WillianXG/aplicacaoSaude.git)
+
 ## Funcionalidades
 
 - Permite que os participantes da pesquisa insiram informações como idade, gênero e respostas a perguntas específicas.
