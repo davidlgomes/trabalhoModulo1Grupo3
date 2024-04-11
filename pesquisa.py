@@ -11,7 +11,7 @@ class Pesquisa:
             with open('dados_pesquisa.csv', 'w', newline='') as arquivo_csv:
                 escritor_csv = csv.writer(arquivo_csv)
                 escritor_csv.writerow(['Idade', 'Genero', 'Atividade física', 'Consumo de frutas e vegetais',
-                                       '7 horas de sono', 'Tabagismo', 'Data', 'Hora'])
+                                       '7 horas de sono', 'Tabagismo','Bebidas','Meditação/Yoga','Check-ups Médicos', 'Data', 'Hora'])
 
         with open('dados_pesquisa.csv', 'a', newline='') as arquivo_csv:
             escritor_csv = csv.writer(arquivo_csv)
